@@ -24,8 +24,8 @@ defmodule DayOne do
 
   ## Examples
 
-  iex> DayOne.valid_parenthesis("([])")
-  true
+    iex> DayOne.valid_parenthesis("([])")
+    true
 
   """
   def valid_parenthesis(str) do
